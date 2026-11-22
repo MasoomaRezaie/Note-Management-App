@@ -1,0 +1,19 @@
+{
+    "tasks": [
+    {
+      "id": "1",
+      "title": "Learn React",
+      "catagory": "study",
+      "isfavorite": true,
+      "completed": false
+      
+    },
+    {
+      "id": "2",
+      "title": "Build a Note Management App",
+      "catagory": "work",
+      "isfavorite": false,
+      "completed": false
+    }
+    ]
+}
